@@ -1,0 +1,21 @@
+push 5
+push 24
+push 19
+push 233
+pop 
+pop 
+pop
+push 13
+pop
+push 233
+pop 
+pop 
+pop
+push 13
+pop
+push 233
+pop 
+pop 
+pop
+push 13
+pop
